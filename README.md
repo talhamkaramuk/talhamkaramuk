@@ -11,7 +11,7 @@
 
 💬 Ask me about **html, css, javascript, react, c#, sql**
 
-🤓 Fun fact **it’s all 0’s and 1’s**
+🤓 Fun fact, **it’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
