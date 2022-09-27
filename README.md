@@ -1,5 +1,5 @@
 <h1 align="center">Hello guys! I'm Talha Mehmet KARAMUK</h1>
-<h3 align="center">A passionate junior frontend developer👨🏻‍💻</h3>
+<h3 align="center">A passionate junior front-end developer👨🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhamkaramuk&label=Profile%20views&color=ff7300&style=flat" alt="talhamkaramuk" /> </p>
 
