@@ -1,5 +1,5 @@
 <h1 align="center">Hello guys! I'm Talha</h1>
-<h3 align="center">A passionate junior software developer👨🏻‍💻</h3>
+<h3 align="center">A passionate jr. software developer👨🏻‍💻</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=talhamkaramuk&label=Profile%20Views&color=ff2ea4&style=plastic" alt="talhamkaramuk"/>
