@@ -44,13 +44,13 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhamkaramuk&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=99" alt="talhamkaramuk"/>
 </p>
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamkaramuk&theme=radical" alt="talhamkaramuk"/>
 </p>
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhamkaramuk&show_icons=true&theme=radical&locale=en" alt="talhamkaramuk"/>
 </p>
 
