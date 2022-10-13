@@ -49,6 +49,8 @@
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamkaramuk&theme=radical" alt="talhamkaramuk"/>
+</p>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhamkaramuk&show_icons=true&theme=radical&locale=en" alt="talhamkaramuk"/>
 </p>
 
