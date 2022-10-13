@@ -1,11 +1,11 @@
 <h1 align="center">Hello guys! I'm Talha</h1>
 <h3 align="center">A passionate jr. software developer</h3>
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=talhamkaramuk&label=Profile%20Views&color=ff2ea4&style=plastic" alt="talhamkaramuk"/>
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhamkaramuk&column=7&theme=radical&margin-w=3&no-bg=true" alt="talhamkaramuk" /></a>
 </p>
 
