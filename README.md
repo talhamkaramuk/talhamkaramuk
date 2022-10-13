@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhamkaramuk&column=7&theme=radical&margin-w=10&no-bg=true" alt="talhamkaramuk" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhamkaramuk&column=7&theme=radical&margin-w=15&no-bg=true" alt="talhamkaramuk" /></a>
 </p>
 
 <p>
