@@ -1,8 +1,6 @@
 <h1 align="center">Hello guys! I'm Talha</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<h1 align="center">⚠️I recently deleted many of my repositories because I think those works are not professional enough and do not reflect my real potential. So, I will upload more professional works here at a later time.⚠️</h1> 
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=talhamkaramuk&label=Profile%20Views&color=ff2ea4&style=plastic" alt="talhamkaramuk"/>
 </p>
